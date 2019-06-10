@@ -5,7 +5,6 @@
 	/**
 	* Klase skirta automobilio ir jo stoteliu duomenims ir busenai saugoti ir patikrinti ir perskaiciuoti
 	* versija 0.0.1
-	bet kas
 	*/
 	public class Automobilis {
 		
